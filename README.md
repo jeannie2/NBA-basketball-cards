@@ -1,6 +1,6 @@
 # NBA-basketball-cards
 
-Simple project using React
+Simple React project 
 
 ## Technologies
 This project was made using HTML, CSS, JavaScript, React 
